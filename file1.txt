@@ -4,3 +4,4 @@ fix bug
 
 user1 fix bug
 some new feature
+line from user1 - lesson about rebase
