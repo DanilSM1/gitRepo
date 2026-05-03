@@ -6,3 +6,4 @@ Line from User2
 
 user2 fix bug
 critical bug fixed
+line from user2 - lesson about rebase
