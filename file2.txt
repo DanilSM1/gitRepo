@@ -5,3 +5,4 @@ fix bag
 Line from User2
 
 user2 fix bug
+critical bug fixed
